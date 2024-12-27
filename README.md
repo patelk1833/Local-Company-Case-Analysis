@@ -70,4 +70,5 @@ This project highlighted The Indian Channel’s strengths as a luxury dining des
 
 ## Repository Files
 This repository includes the following file:
-- **The Indian Channel Presentation**: A PDF file summarizing project findings, insights, and recommendations which was presented. [View the presentation here](<[link-to-your-pdf-file](https://github.com/patelk1833/Local-Company-Case-Analysis/blob/main/The_Indian_Channel_Analysis_Presentation.pdf)>)
+- **_The Indian Channel Presentation_**: A PDF file summarizing project findings, insights, and recommendations which was presented.  [View the presentation here](https://github.com/patelk1833/Local-Company-Case-Analysis/blob/main/The_Indian_Channel_Analysis_Presentation.pdf)
+
